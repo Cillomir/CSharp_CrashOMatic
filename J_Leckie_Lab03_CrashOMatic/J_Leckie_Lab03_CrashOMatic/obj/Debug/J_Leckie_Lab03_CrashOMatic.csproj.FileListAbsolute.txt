@@ -1,0 +1,11 @@
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\bin\Debug\J_Leckie_Lab03_CrashOMatic.exe.config
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\bin\Debug\J_Leckie_Lab03_CrashOMatic.exe
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\bin\Debug\J_Leckie_Lab03_CrashOMatic.pdb
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\bin\Debug\GDIDrawer.dll
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\obj\Debug\J_Leckie_Lab03_CrashOMatic.csproj.AssemblyReference.cache
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\obj\Debug\J_Leckie_Lab03_CrashOMatic.Form1.resources
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\obj\Debug\J_Leckie_Lab03_CrashOMatic.Properties.Resources.resources
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\obj\Debug\J_Leckie_Lab03_CrashOMatic.csproj.GenerateResource.cache
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\obj\Debug\J_Leckie_Lab03_CrashOMatic.csproj.CoreCompileInputs.cache
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\obj\Debug\J_Leckie_Lab03_CrashOMatic.exe
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab03_CrashOMatic\J_Leckie_Lab03_CrashOMatic\obj\Debug\J_Leckie_Lab03_CrashOMatic.pdb
